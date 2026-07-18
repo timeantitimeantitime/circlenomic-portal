@@ -1,0 +1,10 @@
+node_modules/
+portal/.raven/
+portal/node_modules/
+mining-layer/ravencoin-v432/
+mining-layer/bin/
+mining-layer/*.dmg
+mining-layer/ravencoin/
+portal/src/.raven/
+*.log
+.DS_Store

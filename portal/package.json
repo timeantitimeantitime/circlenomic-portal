@@ -1,0 +1,17 @@
+{
+  "name": "circlenomic-portal",
+  "version": "1.0.0",
+  "description": "Circlenomic Network Society Portal - UBI, Governance, Education, Marketplace",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["circlenomic", "ubi", "network-state", "mining", "governance"],
+  "author": "Circlenomic Community",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
